@@ -31,6 +31,8 @@ giving feedback to all your initiatives and relevant milestones every Friday bef
 
 ## 300 - ActionPlanner terminology
 
+![ActionPlanner-Hierarchy](https://user-images.githubusercontent.com/1499433/167865443-30cde0a3-c125-4df2-8e2c-c0e3adf9e3b3.png)
+
 ### OBJECTIVES 
 
 Objectives are the highest level in the activity tree structure and a relevant way of grouping initiatives. It’s easy to 
