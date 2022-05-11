@@ -8,10 +8,9 @@ Free account at https://www.actionplanner.com/succes-solo-free-en/
 Quick Start Guide for SOLO: [1.-ActionPlanner-Quick-Start-sheet-for-SOLO.pdf](https://github.com/vanHeemstraSystems/actionplanner-headstart/files/8670421/1.-ActionPlanner-Quick-Start-sheet-for-SOLO.pdf)
 
 ## 100 - Log into your ActionPlanner account
-• Go to https://solo.actionplanner.com and login with your email and password (the one you selected 
-when you logged in for the first time)
-• If you cannot remember your password, you can always click the pink "Forgot my password" link to
-reset your password from the https://solo.actionplanner.com login page
+• Go to https://solo.actionplanner.com and login with your email and password (the one you selected when you logged in for the first time)
+
+• If you cannot remember your password, you can always click the pink "Forgot my password" link to reset your password from the https://solo.actionplanner.com login page
 
 ## 200 - Building your Roadmap
 
