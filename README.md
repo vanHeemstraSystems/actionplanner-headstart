@@ -14,6 +14,9 @@ when you logged in for the first time)
 reset your password from the https://solo.actionplanner.com login page
 
 ## 200 - Building your Roadmap
+
+![Building-Your-Roadmap](https://user-images.githubusercontent.com/1499433/167865663-aa699b92-73d1-49f4-bc52-d6a5452fa395.png)
+
 Click on the pink “PLUS” button to start building your Roadmap.
 
 1. Start by creating your Objectives. Objectives are high-level goals 
